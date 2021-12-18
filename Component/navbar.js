@@ -112,31 +112,31 @@ function navbar(){
 
             <div class="nav_catagory">
             <ul>
-            <li id="allDepartment"><a>All Departments</a>
+            <li id="allDepartment"><a href="../main/allProducts.html">All Departments</a>
                 <div class="allDepartment_list">
-                    <ul>
-                        <li><a href="../main/allProducts.html">Holiday Decorations</a></li>
-                        <li><a href="../main/allProducts.html">Appliances</a></li>
-                        <li><a href="../main/allProducts.html">Bath & Faucets</a></li>
-                        <li><a href="../main/allProducts.html">Blinds & Window Treatment</a></li>
-                        <li><a href="../main/allProducts.html">Building Materials</a></li>
-                        <li><a href="../main/allProducts.html">Cleaning</a></li>
-                        <li><a href="../main/allProducts.html">Decor & Furniture</a></li>
-                        <li><a href="../main/allProducts.html">Doors & Windows</a></li>
-                        <li><a href="../main/allProducts.html">Electrical</a></li>
-                        <li><a href="../main/allProducts.html">Flooring & Area Rugs</a></li>
-                        <li><a href="../main/allProducts.html">Hardware</a></li>
-                        <li><a href="../main/allProducts.html">Heating & Cooling</a></li>
-                        <li><a href="../main/allProducts.html">Kitchen & Kitchenware</a></li>
-                        <li><a href="../main/allProducts.html">Lawn & Garden</a></li>
-                        <li><a href="../main/allProducts.html">Lighting & Ceiling Fans</a></li>
-                        <li><a href="../main/allProducts.html">Outdoor Living & Patio</a></li>
-                        <li><a href="../main/allProducts.html">Paint</a></li>
-                        <li><a href="../main/allProducts.html">Plumbing</a></li>
-                        <li><a href="../main/allProducts.html">Smart Home</a></li>
-                        <li><a href="../main/allProducts.html">Storage & Organization</a></li>
-                        <li><a href="../main/allProducts.html">Tools</a></li>
-                    </ul>
+                <!--    // <ul>
+                    //     <li><a href="../main/allProducts.html">Holiday Decorations</a></li>
+                    //     <li><a href="../main/allProducts.html">Appliances</a></li>
+                    //     <li><a href="../main/allProducts.html">Bath & Faucets</a></li>
+                    //     <li><a href="../main/allProducts.html">Blinds & Window Treatment</a></li>
+                    //     <li><a href="../main/allProducts.html">Building Materials</a></li>
+                    //     <li><a href="../main/allProducts.html">Cleaning</a></li>
+                    //     <li><a href="../main/allProducts.html">Decor & Furniture</a></li>
+                    //     <li><a href="../main/allProducts.html">Doors & Windows</a></li>
+                    //     <li><a href="../main/allProducts.html">Electrical</a></li>
+                    //     <li><a href="../main/allProducts.html">Flooring & Area Rugs</a></li>
+                    //     <li><a href="../main/allProducts.html">Hardware</a></li>
+                    //     <li><a href="../main/allProducts.html">Heating & Cooling</a></li>
+                    //     <li><a href="../main/allProducts.html">Kitchen & Kitchenware</a></li>
+                    //     <li><a href="../main/allProducts.html">Lawn & Garden</a></li>
+                    //     <li><a href="../main/allProducts.html">Lighting & Ceiling Fans</a></li>
+                    //     <li><a href="../main/allProducts.html">Outdoor Living & Patio</a></li>
+                    //     <li><a href="../main/allProducts.html">Paint</a></li>
+                    //     <li><a href="../main/allProducts.html">Plumbing</a></li>
+                    //     <li><a href="../main/allProducts.html">Smart Home</a></li>
+                    //     <li><a href="../main/allProducts.html">Storage & Organization</a></li>
+                    //     <li><a href="../main/allProducts.html">Tools</a></li>
+                    // </ul> -->
                 </div>
             </li>
             <li><a href="../main/allProducts.html">DIY Projects & Idea</a></li>

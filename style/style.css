@@ -273,6 +273,7 @@
 .allDepartment_list{
     display: none;
     max-width: 400px;
+    position: absolute;
 }
 
 .allDepartment_list ul{
