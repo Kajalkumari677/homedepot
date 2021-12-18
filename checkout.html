@@ -11,10 +11,30 @@
   </head>
   <body>
     <div id="outer_div">
-      <div id="navbar">
-        <img
+      <div class="navbar">
+        <div class="homebtn">
+          <img
           src="https://www.homedepot.com/mycheckout/assets/react/images/hd-logo.svg"
         />
+        </div>
+        <div class="GotoHomepage">
+          <div class="box1">
+                    <p>Are you sure you want to return to the Homepage?</p>
+                    <img src="https://assets.thdstatic.com/images/v1/close-symbol-orange.svg">
+                </div>
+
+                <div class="box2">
+                   <button>Go To Homepage</button>
+                </div>
+                <div id="or">or</div>
+
+                <div class="box3">
+                    <button>Stay in Checkout</button>
+                </div>
+
+        </div>
+
+
         <h1>Secure Checkout</h1>
         <img
           src="https://media.istockphoto.com/vectors/lock-icon-vector-id936681148?k=20&m=936681148&s=170667a&w=0&h=q0fzf2khHO4E5O084FpjIb_mNsTWjWg0nGAZfFqiqKQ="
@@ -39,8 +59,8 @@
             </div>
             <br />
             <div>
-              <input />
-              <input />
+              <input/>
+              <input/>
             </div>
           </div>
 
@@ -265,4 +285,11 @@
     </div>
   </body>
 </html>
-<script src="checkout.js"></script>
+<script type="module">
+    let flag;
+    console.log(navbar);
+    document.querySelector(".navbar").innerHTML = navbar(f);
+
+</script>
+
+<script src="./script/backtoHome.js" type="module"></script>
