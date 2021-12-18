@@ -233,6 +233,12 @@
     font-family: "helvetica-neue-bold",Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
+.nav_catagory{
+    /* border: 1px solid black; */
+    /* margin: 10px; */
+    /* background-color: white; */
+}
+
 .nav_catagory ul{
     display: flex;
     justify-content: space-evenly;
