@@ -2072,7 +2072,7 @@ JSON_Data.map((productData)=>{
     anotherCross.setAttribute("src","https://assets.thdstatic.com/images/v1/close-x-black.svg");
 
     let deliveryHeading = document.createElement("div");
-    deliveryHeading.setAttribute("class","heading");
+    deliveryHeading.setAttribute("id","heading");
     deliveryHeading.innerHTML = `<span class="delivery_heading">Delivery</span>` + productData.delivery;
 
     deliveryDiv.append(anotherCross,deliveryHeading)

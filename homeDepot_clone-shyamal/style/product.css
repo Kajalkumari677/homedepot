@@ -1,10 +1,14 @@
 .productBanner{
-    margin: 50px 0px;
+    margin: 50px 0px 10px 30px;
+    /* border:1px solid red; */
+    width:97%;
 }
 
 .resultDiv{
     display: flex;
     justify-content: space-between;
+    /* border:1px solid red; */
+    /* background-color: rgb(245, 228, 245); */
 }
 
 .resultDiv .box2{
@@ -12,8 +16,9 @@
 }
 
 .product_wrapper{
-    border: 1px solid black;
+    border: 1px solid rgb(255, 253, 253);
     display: flex;
+    margin-bottom: 100px;
 }
 
 .filterOptions{
@@ -140,38 +145,70 @@
 
 .product .priceDiv{
     display: flex;
-    font-size: 13px;
+    font-size: 16px;
    
     padding:10px 0px 10px 0px;
 }
+.priceLogo{
+     /* border:1px solid red; */
+     width:25px;
+ }
 
 /* PickUp section */
 .pickUp{
     display: flex;
     margin: 18px 0px;
     font-size: 12px;
-    border:1px solid red;
+    /* border:1px solid red; */
 }
-
+ 
 .pickupHeading{
     /* display: block; */
     margin: 0px 10px;
+     /* border:1px solid red; */
+     font-size: 14px;
+     font-weight: bold;
 }
+ .crossImg{
+   width:15px;
+ }
 
 /* Delivery Section */
 .deliveryDiv{
     display: flex;
     margin: 18px 0px;
     font-size: 12px;
+    column-gap: 20px;
+    
+}
+#heading{
+    /* border:1px solid red; */
+    font-size: 12px;
+    font-weight: bold;
+    height:20px;
+    padding:5px;
+    margin-left: -10px;
+    margin-top: 10px;
+    text-align: left;
+    background-color: rgb(245, 153, 120);
+    color: rgb(7, 7, 7);
+    border-radius: 2px;
 }
 
 .delivery_heading{
-    margin: 0px 10px;
+    margin: 10px 10px;
+   
+    margin-top: 30px;;
+
+    
+}
+.anotherCross {
+     width:15px;
 }
 
 .addToCartBtn{
     /* display: none; */
-    margin:15px auto;
+    margin:15px 15px 15px 0px;
     padding: 12px;
     font-size: 20px;
     width: 80%;
@@ -186,7 +223,8 @@
 
 
 .addToCartBtn:hover{
-    background-color:rgb(192, 192, 192);
-    color: rgb(124, 64, 64);
-    border:1px solid red
+    background-color:orangered;
+    color: white;
+    border-radius: 2px;
+    /* border:1px solid red */
 }
