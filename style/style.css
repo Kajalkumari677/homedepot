@@ -8,6 +8,8 @@
 
 .container{
     /* border: 1px solid black; */
+    /* overflow-x: hidden; */
+    /* height:max-content; */
 }
 
 /* heading */
