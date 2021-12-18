@@ -443,4 +443,17 @@
     document.querySelector(".middleSection").innerHTML = middleSection();
 
     document.querySelector(".footerSection").innerHTML = footer();
+
+    let rdata=JSON.parse(localStorage.getItem("rdata"))
+
+    console.log(rdata);
+    let email=rdata.email;
+    console.log(email);
+   
+    if(rdata==null || rdata==undefined){
+
+    }else{
+        document.querySelector("#myAccount").textContent = email;
+    }
+
 </script>
