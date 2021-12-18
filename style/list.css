@@ -1,4 +1,7 @@
-
+.productDetails{
+    display: flex;
+    flex-direction: column;
+}
 
 .createAcc{
     border: 1px solid black;
