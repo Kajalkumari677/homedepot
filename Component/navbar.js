@@ -83,69 +83,69 @@ function navbar(){
         </div>
     </div>
     <div class="profileSection">
-        <ul>
-            <li id="myAccount"><a href="#"> My Account <img src="../image/person.svg" alt="logo"> </a>
-                <div class="registerform">
-                    <div class="registrationBtn">
-                        <button id="signinBtn">Sign in</button>
-                        <button id="registerBtn">Register</button>
-                    </div>
-                    <hr id="hr3">
-                    <div class="otherSections">
-                        <ul>
-                            <li><a href="#"><img src="" alt="">Orders & Purchases</a></li>
-                            <li><a href="#"><img src="" alt="">My Home Depot Credit Card</a></li>
-                            <li><a href="#"><img src="" alt="">Account Profile</a></li>
-                            <li><a href="#"><img src="" alt="">Instant Checkout Setting</a></li>
-                            <li><a href="#"><img src="" alt="">Lists</a></li>
-                            <li><a href="#"><img src="" alt="">My Subscriptions</a></li>
-                            <li><a href="#"><img src="" alt="">Military Discount Program</a></li>
-                        </ul>
-                    </div>
+                    <ul>
+                        <li id="myAccount"><a href="#"> My Account <img src="../image/person.svg" alt="logo"> </a>
+                            <div class="registerform">
+                                <div class="registrationBtn">
+                                <a href="../main/emailSignIn.html" ><button id="signinBtn">Sign in</button></a>
+                                <a href="../main/register.html" ><button id="registerBtn">Register</button></>
+                                </div>
+                                <hr id="hr3">
+                                <div class="otherSections">
+                                    <ul>
+                                        <li><a href="#"><img src="" alt="">Orders & Purchases</a></li>
+                                        <li><a href="#"><img src="" alt="">My Home Depot Credit Card</a></li>
+                                        <li><a href="#"><img src="" alt="">Account Profile</a></li>
+                                        <li><a href="#"><img src="" alt="">Instant Checkout Setting</a></li>
+                                        <li><a href="#"><img src="" alt="">Lists</a></li>
+                                        <li><a href="#"><img src="" alt="">My Subscriptions</a></li>
+                                        <li><a href="#"><img src="" alt="">Military Discount Program</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="list.html">Lists <img src="../image/heart.svg" alt="logo"> </a></li>
+                        <li><a href="#">Cart <span>|6 items</span> <img src="../image/cart.svg" alt="logo"> </a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="nav_catagory">
+            <ul>
+            <li id="allDepartment">All Departments
+                <div class="allDepartment_list">
+                    <ul>
+                        <li><a href="../main/allProducts.html">Holiday Decorations</a></li>
+                        <li><a href="../main/allProducts.html">Appliances</a></li>
+                        <li><a href="../main/allProducts.html">Bath & Faucets</a></li>
+                        <li><a href="../main/allProducts.html">Blinds & Window Treatment</a></li>
+                        <li><a href="../main/allProducts.html">Building Materials</a></li>
+                        <li><a href="../main/allProducts.html">Cleaning</a></li>
+                        <li><a href="../main/allProducts.html">Decor & Furniture</a></li>
+                        <li><a href="../main/allProducts.html">Doors & Windows</a></li>
+                        <li><a href="../main/allProducts.html">Electrical</a></li>
+                        <li><a href="../main/allProducts.html">Flooring & Area Rugs</a></li>
+                        <li><a href="../main/allProducts.html">Hardware</a></li>
+                        <li><a href="../main/allProducts.html">Heating & Cooling</a></li>
+                        <li><a href="../main/allProducts.html">Kitchen & Kitchenware</a></li>
+                        <li><a href="../main/allProducts.html">Lawn & Garden</a></li>
+                        <li><a href="../main/allProducts.html">Lighting & Ceiling Fans</a></li>
+                        <li><a href="../main/allProducts.html">Outdoor Living & Patio</a></li>
+                        <li><a href="../main/allProducts.html">Paint</a></li>
+                        <li><a href="../main/allProducts.html">Plumbing</a></li>
+                        <li><a href="../main/allProducts.html">Smart Home</a></li>
+                        <li><a href="../main/allProducts.html">Storage & Organization</a></li>
+                        <li><a href="../main/allProducts.html">Tools</a></li>
+                    </ul>
                 </div>
             </li>
-            <li><a href="list.html">Lists <img src="../image/heart.svg" alt="logo"> </a></li>
-            <li><a href="#">Cart <span>|6 items</span> <img src="../image/cart.svg" alt="logo"> </a></li>
-        </ul>
-    </div>
-</div>
-
-<div class="nav_catagory">
-    <ul>
-        <li id="allDepartment"><a href="#">All Departments</a>
-            <div class="allDepartment_list">
-                <ul>
-                    <li><a href="#">Holiday Decorations</a></li>
-                    <li><a href="#">Appliances</a></li>
-                    <li><a href="#">Bath & Faucets</a></li>
-                    <li><a href="#">Blinds & Window Treatment</a></li>
-                    <li><a href="#">Building Materials</a></li>
-                    <li><a href="#">Cleaning</a></li>
-                    <li><a href="#">Decor & Furniture</a></li>
-                    <li><a href="#">Doors & Windows</a></li>
-                    <li><a href="#">Electrical</a></li>
-                    <li><a href="#">Flooring & Area Rugs</a></li>
-                    <li><a href="#">Hardware</a></li>
-                    <li><a href="#">Heating & Cooling</a></li>
-                    <li><a href="#">Kitchen & Kitchenware</a></li>
-                    <li><a href="#">Lawn & Garden</a></li>
-                    <li><a href="#">Lighting & Ceiling Fans</a></li>
-                    <li><a href="#">Outdoor Living & Patio</a></li>
-                    <li><a href="#">Paint</a></li>
-                    <li><a href="#">Plumbing</a></li>
-                    <li><a href="#">Smart Home</a></li>
-                    <li><a href="#">Storage & Organization</a></li>
-                    <li><a href="#">Tools</a></li>
-                </ul>
-            </div>
-        </li>
-        <li><a href="">Home Decor, Furniture & Kitchenware</a></li>
-        <li><a href="">DIY Projects & Idea</a></li>
-        <li><a href="">Project Calculators</a></li>
-        <li><a href="">Installation & Services</a></li>
-        <li><a href="">Specials & Offers</a></li>
-        <li><a href="">Local Ad & Catalog</a></li>
-    </ul>
+            <li><a href="../main/allProducts.html">DIY Projects & Idea</a></li>
+            <li><a href="../main/allProducts.html">Home Decor, Furniture & Kitchenware</a></li>
+            <li><a href="../main/allProducts.html">Project Calculators</a></li>
+            <li><a href="../main/allProducts.html">Installation & Services</a></li>
+            <li><a href="../main/allProducts.html">Specials & Offers</a></li>
+            <li><a href="../main/allProducts.html">Local Ad & Catalog</a></li>
+            </ul>
 </div>`;
 }
 

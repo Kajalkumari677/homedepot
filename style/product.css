@@ -1,5 +1,12 @@
 .productBanner{
-    margin: 50px 0px;
+    margin: 50px;
+    /* width: 980px; */
+    border: 1px solid rgba(250, 179, 167, 0.349);
+}
+
+.container{
+    overflow: hidden;
+    /* width: max-content; */
 }
 
 .resultDiv{
@@ -9,11 +16,17 @@
 
 .resultDiv .box2{
     display: flex;
+    margin-right: 150px;
+}
+
+.resultDiv .box1{
+    margin-left: 50px;
 }
 
 .product_wrapper{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
+    margin: 20px 0px;
 }
 
 .filterOptions{
@@ -150,7 +163,7 @@
     display: flex;
     margin: 18px 0px;
     font-size: 12px;
-    border:1px solid red;
+    /* border:1px solid red; */
 }
 
 .pickupHeading{
@@ -159,14 +172,15 @@
 }
 
 /* Delivery Section */
-.deliveryDiv{
+.deliveryContainer{
     display: flex;
     margin: 18px 0px;
     font-size: 12px;
 }
 
-.delivery_heading{
+.deliveryheading{
     margin: 0px 10px;
+    background-color: transparent;
 }
 
 .addToCartBtn{
@@ -187,6 +201,10 @@
 
 .addToCartBtn:hover{
     background-color:rgb(192, 192, 192);
-    color: rgb(124, 64, 64);
-    border:1px solid red
+    color: rgb(29, 23, 23);
+    /* border:1px solid red */
+}
+
+#sortEl{
+    border: 1px solid tomato;
 }

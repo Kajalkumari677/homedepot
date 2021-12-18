@@ -315,7 +315,7 @@ function middleSection(){
                 <i class="fas fa-dollar-sign" style="font-size: 12px;"></i>
                 <h2>49<sup style="font-size: 13px;">97</sup></h2>
             </div>
-            <button class="btn-sponsored-products">Add To Cart</button>
+            <a href="../main/allProducts.html"><button class="btn-sponsored-products">Add To Cart</button></a>
         </div>
         <div class="box-sponsored-products">
             <div class="image-div-sponsored-products">
@@ -340,7 +340,7 @@ function middleSection(){
                 <i class="fas fa-dollar-sign" style="font-size: 12px;"></i>
                 <h2>31<sup style="font-size: 13px;">97</sup></h2>
             </div>
-            <button class="btn-sponsored-products">Add To Cart</button>
+            <a href="../main/allProducts.html"><button class="btn-sponsored-products">Add To Cart</button></a>
         </div>
         <div class="box-sponsored-products">
             <div class="image-div-sponsored-products">
@@ -365,7 +365,7 @@ function middleSection(){
                 <i class="fas fa-dollar-sign" style="font-size: 12px;"></i>
                 <h2>498<sup style="font-size: 13px;">98</sup></h2>
             </div>
-            <button class="btn-sponsored-products">Add To Cart</button>
+            <a href="../main/allProducts.html"><button class="btn-sponsored-products">Add To Cart</button></a>
         </div>
         <div class="box-sponsored-products">
             <div class="image-div-sponsored-products">
@@ -390,7 +390,7 @@ function middleSection(){
                 <i class="fas fa-dollar-sign" style="font-size: 12px;"></i>
                 <h2>745<sup style="font-size: 13px;">24</sup></h2>
             </div>
-            <button class="btn-sponsored-products">Add To Cart</button>
+            <a href="../main/allProducts.html"><button class="btn-sponsored-products">Add To Cart</button></a>
         </div>
         <div class="box-sponsored-products">
             <div class="image-div-sponsored-products">
@@ -415,7 +415,7 @@ function middleSection(){
                 <i class="fas fa-dollar-sign" style="font-size: 12px;"></i>
                 <h2>1961<sup style="font-size: 13px;">41</sup></h2>
             </div>
-            <button class="btn-sponsored-products">Add To Cart</button>
+            <a href="../main/allProducts.html"><button class="btn-sponsored-products">Add To Cart</button></a>
         </div>
         <div class="box-sponsored-products">
             <div class="image-div-sponsored-products">
@@ -440,7 +440,7 @@ function middleSection(){
                 <i class="fas fa-dollar-sign" style="font-size: 12px;"></i>
                 <h2>1049<sup style="font-size: 13px;">99</sup></h2>
             </div>
-            <button class="btn-sponsored-products">Add To Cart</button>
+            <a href="../main/allProducts.html"><button class="btn-sponsored-products">Add To Cart</button></a>
         </div>
     </div>
     <!-- ------------------------------------- -->
@@ -540,7 +540,7 @@ function middleSection(){
                     <strike>179</strike>
                 </i>
             </div>
-            <button class="btn-recommendation">Add To Cart</button>
+            <a href="../main/allProducts.html"><button class="btn-recommendation">Add To Cart</button></a>
         </div>
         <div class="box-recommendation">
             <div class="image-div-recommendation">
@@ -572,7 +572,7 @@ function middleSection(){
                     <strike>225.48</strike>
                 </i>
             </div>
-            <button class="btn-recommendation">Add To Cart</button>
+            <a href="../main/allProducts.html"><button class="btn-recommendation">Add To Cart</button></a>
         </div>
         <div class="box-recommendation">
             <div class="image-div-recommendation">
@@ -604,7 +604,7 @@ function middleSection(){
                     <strike></strike>
                 </i>
             </div>
-            <button class="btn-recommendation">Add To Cart</button>
+            <a href="../main/allProducts.html"><button class="btn-recommendation">Add To Cart</button></a>
         </div>
         <div class="box-recommendation">
             <div class="image-div-recommendation">
@@ -635,7 +635,7 @@ function middleSection(){
                     <strike>199</strike>
                 </i>
             </div>
-            <button class="btn-recommendation">Add To Cart</button>
+            <a href="../main/allProducts.html"><button class="btn-recommendation">Add To Cart</button></a>
         </div>
         <div class="box-recommendation">
             <div class="image-div-recommendation">
@@ -667,7 +667,7 @@ function middleSection(){
                     <strike>36.97</strike>
                 </i>
             </div>
-            <button class="btn-recommendation">Add To Cart</button>
+            <a href="../main/allProducts.html"><button class="btn-recommendation">Add To Cart</button></a>
         </div>
         <div class="box-recommendation">
             <div class="image-div-recommendation">
@@ -700,7 +700,7 @@ function middleSection(){
                     <strike>199</strike>
                 </i>
             </div>
-            <button class="btn-recommendation">Add To Cart</button>
+            <a href="../main/allProducts.html"><button class="btn-recommendation">Add To Cart</button><?a>
         </div>
     </div>
     <!-- ------------------------------------- -->

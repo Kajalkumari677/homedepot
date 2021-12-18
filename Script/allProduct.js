@@ -125,15 +125,15 @@ function displayData(productArr){
         
         // Delivery Section
         let deliveryDiv = document.createElement("div");
-        deliveryDiv.setAttribute("class","deliveryDiv");
+        deliveryDiv.setAttribute("class","deliveryContainer");
         
         let anotherCross = document.createElement("img");
         anotherCross.setAttribute("class","anotherCross");
         anotherCross.setAttribute("src","https://assets.thdstatic.com/images/v1/close-x-black.svg");
         
         let deliveryHeading = document.createElement("div");
-        deliveryHeading.setAttribute("class","heading");
-        deliveryHeading.innerHTML = `<span class="delivery_heading">Delivery</span>` + productData.delivery;
+        deliveryHeading.setAttribute("class","Heading");
+        deliveryHeading.innerHTML = `<span class="deliveryheading">Delivery</span>` + productData.delivery;
         
         deliveryDiv.append(anotherCross,deliveryHeading)
         
