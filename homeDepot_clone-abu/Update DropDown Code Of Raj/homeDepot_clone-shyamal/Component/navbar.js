@@ -10,32 +10,30 @@ function navbar(){
             <div class="currentLocationBtn">
                 <p>You're shopping</p>
                 <h5>Guam - Tamuning</h5>
-                <h6><button></button>OPEN <span>until 10 pm</span></h6>
+                <h6><button></button>OPEN <span>unit 10 pm</span></h6>
             </div>
             <div class="findLocationResult">
                 <div class="box1">
-                    <p>Guam - Tamuning # 1710</p>
+                    <p>Guam - Tamuning#1710</p>
                 </div>
                 <div class="box2">
                     <div class="leftBox">
                         <h4>OPEN</h4>
                         <h5>Closes 10 pm</h5>
                         <p>Curbside Available</p>
-                         <p>295 Chalan Pasaheru Route 10a</p>
-                            <p>Tamuning, GU 96913</p>
-                            <p>(671)648-0440</p>
-                           <p> View Local Ad</p>
-                            <p>View Store Details</p>
-                       
+                        <p>295 Chalan Pasaheru Route 10a
+                            Tamuning, GU 96913
+                            (671)648-0440
+                            View Local Ad
+                            View Store Details
+                        </p>
                     </div>
                     <div class="rightBox">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgjG37yPyDwQfFDMpErxeMJD-UITAkie7Lg&usqp=CAU" alt="">
                     </div>
                 </div>
-                <hr>
 
                 <div class="box3">
-                   
                     <button>Find Other Stores</button>
                 </div>
             </div>
@@ -52,20 +50,19 @@ function navbar(){
             <div class="deliveryResult">
                 <div class="box1">
                     <p>Enter delivery ZIP Code</p>
-                    <img src="https://assets.thdstatic.com/images/v1/close-symbol-orange.svg">
                 </div>
 
                 <div class="box2">
-                    <input type="text" placeholder=" Enter Zip Code">
+                    <input type="text" placeholder="Enter Zip Code">
                 </div>
 
                 <div class="box3">
                     <button>Update</button>
                 </div>
-               <hr id="hr1">
+                <hr>
                 <div class="box4">
                     <div class="imgBox">
-                        <img src="https://assets.thdstatic.com/images/v1/truck-icon-orange.svg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="zipCodeHelp">
                         <p>Your ZIP Code helps us to provide the most up-to-date product and delivery information.</p>
@@ -90,10 +87,9 @@ function navbar(){
                         <button id="signinBtn">Sign in</button>
                         <button id="registerBtn">Register</button>
                     </div>
-                    <hr id="hr3">
                     <div class="otherSections">
                         <ul>
-                            <li><a href="#"><img src="" alt="">Orders & Purchases</a></li>
+                            <li><a href="#"><img src="" alt=""> Orders & Purchases</a></li>
                             <li><a href="#"><img src="" alt="">My Home Depot Credit Card</a></li>
                             <li><a href="#"><img src="" alt="">Account Profile</a></li>
                             <li><a href="#"><img src="" alt="">Instant Checkout Setting</a></li>

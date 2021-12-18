@@ -40,7 +40,7 @@
     cursor: pointer;
     /* min-width: 300px; */
     position: relative;
-    padding: 10px 10px 10px 10px;
+    padding: 0px 10px;
 }
 
 
@@ -61,9 +61,7 @@
 
 .color_container{
     display: flex;
-   
-    /* border:1px solid rgb(169, 143, 199); */
-    padding-left: 0px;
+    margin-left: 10px;
 }
 
 .firstBox,.secondBox{
@@ -72,12 +70,10 @@
     height: 30px;
     margin: 5px;
     border-radius: 4px;
-   
 }
 
 .firstBox{
     background-color: brown;
-    margin-left: 0px;
     
 }
 
@@ -94,27 +90,20 @@
     font-size: 12px;
     text-align: left;
     color: rgb(83, 83, 83);
-    /* border:1px solid red; */
-    padding:10px 10px 10px 0px; 
 }
 
 .product .price{
     color: teal;
-     padding: 10px ;
-     /* border:1px solid orangered */
+    margin: 5px 5px;
 }
 
 .product .descrip{
     color: rgb(177, 176, 176);
-    border:1px solid orangered
-    
 }
 
 .product .modelNo{
     font-size: 10px;
     text-align: left;
-    /* border:1px solid green; */
-    padding:0px 10px 10px 0px; 
 }
 
 .product .rating_div{
@@ -124,25 +113,20 @@
 
 .product .stars{
     color: #f96302;
-    font-size: 14px;
+    font-size: 10px;
     text-align: left;
     display: flex;
-    padding:10px 1px 10px 0px; 
-    /* border:1px solid  yellow */
-    
 }
 
 .product .ratingCount{
-    margin: 10px 0px;
+    margin: 0px 20px;
     font-size: 11px;
-    /* border: 1px solid red;; */
 }
 
 .product .priceDiv{
     display: flex;
     font-size: 13px;
-   
-    padding:10px 0px 10px 0px;
+    margin: 5px 0px;
 }
 
 /* PickUp section */
@@ -150,7 +134,6 @@
     display: flex;
     margin: 18px 0px;
     font-size: 12px;
-    border:1px solid red;
 }
 
 .pickupHeading{
@@ -187,6 +170,6 @@
 
 .addToCartBtn:hover{
     background-color:rgb(192, 192, 192);
-    color: rgb(124, 64, 64);
-    border:1px solid red
+    color: rgb(248, 248, 248);
+    bo
 }

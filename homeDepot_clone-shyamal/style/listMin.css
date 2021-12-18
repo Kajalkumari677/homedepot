@@ -238,10 +238,32 @@ height:40px;
     text-decoration: none;
     
 }
+
+
 .productDetails{
-    /* border: 1px solid black; */
-    margin-top: 25px;
-    height: 600px;
-    background-color:rgb(238, 238, 238);
+    border: 1px solid rgb(252, 251, 251);;
+     background-color:rgb(238, 238, 238);
      margin-bottom: 30px;;
+    
+}
+.createAcc>h1{
+    /* border: 1px solid red;; */
+    color:rgb(37, 35, 35)
+}
+.createAcc{
+ border: 1px solid rgb(238, 238, 238);
+}
+.createAcc>button{
+    color:white;
+   
+}
+.listFunctionity{
+  /* border: 1px solid red;; */
+  margin-top: 100px;
+}
+.listFunctionity>.box{
+    border: 1px solid rgb(250, 249, 249);;
+    width:250px;
+    height:100px;
+    background-color: white;
 }
