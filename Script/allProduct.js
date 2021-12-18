@@ -144,7 +144,8 @@ function displayData(productArr){
         addToCartBtn.setAttribute("class","addToCartBtn");
         addToCartBtn.innerHTML = "Add to Cart";
         addToCartBtn.addEventListener("click",()=>{
-            localStorage.setItem("product",JSON.stringify(productData))
+            localStorage.setItem("product",JSON.stringify(productData));
+            window.location.href = "../main/productDetails.html";
         })
         // hover effect
         // product.addEventListener("mouseover",()=>{
