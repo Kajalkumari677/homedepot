@@ -17,13 +17,14 @@ body{
         color: #333;
         text-align: center;
     }
-.productDetails{
+.productDetails_Container{
     /* border: 1px solid black; */
     margin-top: 25px;
     height: 750px;
     /* width: 1280px; */
     margin: 80px auto;
     display: flex;
+    justify-content: center;
 }
 .headingSection{
     height:70px;

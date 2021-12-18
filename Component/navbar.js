@@ -112,7 +112,7 @@ function navbar(){
 
             <div class="nav_catagory">
             <ul>
-            <li id="allDepartment">All Departments
+            <li id="allDepartment"><a>All Departments</a>
                 <div class="allDepartment_list">
                     <ul>
                         <li><a href="../main/allProducts.html">Holiday Decorations</a></li>
