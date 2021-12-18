@@ -323,7 +323,7 @@ body{
 }
 
 #dotedBorder .box{
-    border: 2px dotted gray;
+    border: 2px dotted rgb(241, 187, 177);
     /* width: 80px; */
     text-align: center;
     margin: 8px 5px;
@@ -339,15 +339,16 @@ body{
 .buttonSection{
     margin: 20px auto;
     background-color: white;
-    width: 100%;
+    width: 95%;
     display: flex;
     flex-direction: column;
     padding: 10px 0px;
+    height: 173px;
     /* justify-content: center; */
 }
 
 .buttonSection button{
-    width: 190px;
+    width: 290px;
     margin: 10px 140px;
     padding: 8px 0px;
     font-size: 18px;
