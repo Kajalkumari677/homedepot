@@ -22,22 +22,11 @@
 </ul>
 
 <hr>
-<br>
-<br>
 
-<h2>Sneak Peak</h2>
-
-
-
-<hr>
 <br>
 <h2>Team Members and Contributors</h2>
 <br>
-<br>
 
-
-
-<br>
 
 <h3>Shyamal Sardar</h3>
 <ul>
