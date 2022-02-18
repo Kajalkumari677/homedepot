@@ -26,34 +26,8 @@
 <br>
 
 <h2>Sneak Peak</h2>
-<hr>
 
-<p>Landing Page</p>
-<img src="./image/landingi.png" alt="landing_page">
 
-<br>
-<hr>
-
-<p>Product Details Page</p>
-<img src="./image/products.png" alt="products_page">
-
-<br>
-<hr>
-
-<p>Cart Section</p>
-<img src="./image/products_details.png" alt="product_details">
-
-<br>
-<hr>
-
-<p>Address Section</p>
-<img src="./image/cart.png" alt="cart_page">
-
-<br>
-<hr>
-
-<p>Checkout Page</p>
-<img src="./image/checkout.png" alt="checkout_page">
 
 <hr>
 <br>
@@ -95,15 +69,7 @@
 
 <br>
 
-<h3>kajal kumari</h3>
-<ul>
-  <li>Github: Kajalkumari677</li>
-  <li>Github Link: <a href= "https://github.com/Kajalkumari677" >https://github.com/Kajalkumari677</a></li>
-  <li>Email: </li>
-  <li>LinkedIn: <a href=""> </a></li>
-</ul>
 
-<br>
 
 <h3>ABU RAGHIB UMAR</h3>
 <ul>
